@@ -1,6 +1,13 @@
-###################
- DES in C
-###################
+Fixed point finder
+============
+Written for Google ctf 2018 quals
+
+  make
+
+  ./run_des.o & # as many times as your core count
+
+DES in C
+==========
 C implementation of Data Encryption Standard algorithm.
 
 Overview
